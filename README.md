@@ -1,1 +1,2 @@
-# DataScientistProject1
+# DataScientist
+Udacity Data Scientist Nanodegree
