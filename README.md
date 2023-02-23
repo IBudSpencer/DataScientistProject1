@@ -11,3 +11,6 @@ Summary: Key results:
 Software Developer in the USA on average earn more than twice compared to the average of the rest of the world.
 Bigger companies pay signigicantly higher salaries for professional developers
 Even though a first glance, tha salaries for male and female programmers is almost equal, after a closer look we can see, that women earn less than men as profession developers.
+
+See Medium Post:
+https://medium.com/@t.pfanzelt/no-gender-payment-disparity-for-professional-developers-not-so-fast-f2b3fa3e539c
